@@ -1,0 +1,5 @@
+<resources>
+    <color name="screenbackground">#FFDDDDDD</color> <!-- Light gray color -->
+    <color name="buttonBackground">#FF6200EE</color> <!-- Button color -->
+    <color name="buttonTextColor">#FFFFFFFF</color> <!-- White text color -->
+</resources>
